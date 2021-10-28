@@ -1,0 +1,12 @@
+html {
+  background-color: rgba(129, 126, 121, 0.438);
+}
+#main {
+  position: relative;
+}
+#home {
+  position: absolute;
+  top: 5%;
+  left: 50%;
+  transform: translate(-50%, 0%);
+}

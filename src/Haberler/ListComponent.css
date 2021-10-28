@@ -1,0 +1,14 @@
+#add-button-round {
+  background-color: rgba(236, 16, 16, 0.815);
+  border: 0px solid;
+  border-radius: 30px;
+  color: white;
+  width: 50px;
+  height: 50px;
+  font-size: 40px;
+  font-weight: 100;
+  cursor: pointer;
+}
+#add-button-area {
+  text-align: center;
+}
